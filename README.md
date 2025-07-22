@@ -162,5 +162,15 @@ churn-api/
 
 ---
 
+### 🖼️ Demo Screenshots
+
+**Swagger UI**
+![Swagger UI](./screenshots/swagger-ui.png)
+
+**Sample Prediction Output**
+![Prediction](./screenshots/predict-response.png)
+
+---
+
 ## 📌 Author
 [https://github.com/chandanabhargav]
