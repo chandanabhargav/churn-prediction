@@ -54,7 +54,6 @@ POST /predict
 }
 ```
 
-> ⚠️ Must match the same order and encoding used during model training.
 
 <details>
   <summary>📥 Input Feature Order (click to expand)</summary>
@@ -134,8 +133,7 @@ Visit `http://localhost:8000/docs` for Swagger UI to test the API.
 
 ## 🌍 Live Demo
 
-**URL:** [https://your-churn-api.onrender.com](https://your-churn-api.onrender.com)  
-> (Replace with real Render/EC2 link once deployed)
+**URL:** [https://churn-prediction-mqv6.onrender.com/docs]  
 
 ---
 
@@ -165,5 +163,4 @@ churn-api/
 ---
 
 ## 📌 Author
-
-Chandana Bhargav P
+[https://github.com/chandanabhargav]
